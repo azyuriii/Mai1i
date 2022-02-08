@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>Abhigyan Trips</b>
+  <b>Mai1i</b>
 </h1>
 
 Heya! I'm Mai1i, a student currently living in Philippines.
