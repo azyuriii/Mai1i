@@ -14,14 +14,14 @@ Heya! I'm Mai1i, a student currently living in Philippines.
 </p>
 
 <div align="center">
-  <a href="https://open.spotify.com/track/13QIjo2iGBgl56mNDjJOet?si=0iGkf8mXRp-8GnnldZdnHQ&utm_source=copy-link">
+  <a href="https://open.spotify.com/user/055vyg6y8uq1der42c6f3gezk?si=JDCH_7WFT0a24oiNASykTQ&utm_source=copy-link">
     <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
   </a>
 </div>
 
 <!--
 <div align="center">
-  <a href="https://open.spotify.com/track/13QIjo2iGBgl56mNDjJOet?si=0iGkf8mXRp-8GnnldZdnHQ&utm_source=copy-link">
+  <a href="https://open.spotify.com/user/055vyg6y8uq1der42c6f3gezk?si=JDCH_7WFT0a24oiNASykTQ&utm_source=copy-link">
     <img src="https://spotify-readme-theta-virid.vercel.app/api?scan=true&theme=dark" width="240px">
   </a>
 </div>
