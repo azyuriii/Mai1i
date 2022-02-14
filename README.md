@@ -6,6 +6,11 @@ Heya! I'm Mai1i, a student currently living in Philippines.
 
 <br>
 
+<a href="https://discord.com/users/728042109587685427">
+    <img align ="left" alt="Mai1i" width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+  </a>
+
+
 <p>
 <div align="center">
   <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
