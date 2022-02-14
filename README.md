@@ -13,7 +13,7 @@ Heya! I'm Mai1i, a student currently living in Philippines.
 </div>
 </p>
 
-[!Discord](https://discord.c99.nl/widget/theme-1/728042109587685427.png)
+![Discord](https://discord.c99.nl/widget/theme-1/728042109587685427.png)
 
 ## My Statistics
 
