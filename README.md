@@ -22,6 +22,8 @@ Heya! I'm Mai1i, a student currently living in Philippines.
 
 ## My Statistics
 
+![](https://komarev.com/ghpvc/?username=Mai1i&color=brightgreen)
+
 <br/>
 <p align="left">
   <a href="https://mai.is-a.dev">
