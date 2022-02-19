@@ -6,10 +6,11 @@ Heya! I'm Mai1i, a student currently living in Philippines.
 
 <br>
 
+<h1 align="center">
 <a href="https://discord.com/users/728042109587685427">
     <img align ="left" alt="Mai1i" width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
   </a>
-
+</h1>
 
 <p>
 <div align="center">
