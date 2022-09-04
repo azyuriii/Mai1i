@@ -1,34 +1,8 @@
-<h1 align="center">
-  <b>Mai1i</b>
-</h1>
+<h1 align="center">Hi 👋, I'm azyuri</h1>
+<h3 align="center">16 y.o Developer </h3>
 
-Heya! I'm Mai1i, a student currently living in Philippines.
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=azyuriii&label=Profile%20views&color=80ceff&style=flat-square" alt="yurihsq" /> 
 
-<br>
-
-
-<p>
-<div align="center">
-  <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
-  <img src="https://img.shields.io/badge/-JavaScript-98b982?style=for-the-badge&logo=javascript&logoColor=98b982&labelColor=282828">
-</div>
-</p>
-
-[![Discord](https://discord.c99.nl/widget/theme-3/728042109587685427.png)](https://discord.com/users/728042109587685427)
-
-## My Statistics
-
-![](https://komarev.com/ghpvc/?username=Mai1i&color=brightgreen)
-
-<br/>
-<p align="left">
-  <a href="https://mai.is-a.dev">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Mai1i&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mai1i&theme=gruvbox&hide_border=true" />
-  </a>
-</p>
-<br>
-
-[![Mai1i Activity Graph](https://activity-graph.herokuapp.com/graph?username=Mai1i&custom_title=Mai1i's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://mai.is-a.dev)
-
+[![Discord Presence](https://lanyard.cnrad.dev/api/1002935259408650300)](https://discord.com/users/1002935259408650300)
 
